@@ -3,9 +3,7 @@ function data = LoadFilmCalFile(FilmCalFile)
 fid = fopen(FilmCalFile,'r');
 
 line = fgets(fid);
-% fprintf('%s',line);
 line = fgets(fid);
-% fprintf('%s',line);
 
 data = [];
 lineNumber = 1;    
