@@ -1,26 +1,26 @@
 # AutomoDQA
 
-This is a official github repository of "Development of automated delivery quality assurance analysis software for helical tomotherapy".
+This is a official github repository of "Development of automated delivery quality assurance analysis software for helical tomotherapy". (_Under review_)
 
 Authors :
-Young Hun Yoon, Han-Back Shin, Min Cheol Han, Hojin Kim, Dong Wook Kim, Chae-Seon Hong, Jihun Kim*, Jin Sung Kim*
+__Young Hun Yoon__, Han-Back Shin, Min Cheol Han, Hojin Kim, Dong Wook Kim, Chae-Seon Hong, __Jihun Kim*, Jin Sung Kim*__
 
-*Corresponding author: Jihun Kim and Jin Sung Kim should be considered joint corresponding authors.
+___* Corresponding author__: Jihun Kim and Jin Sung Kim should be considered joint corresponding authors._
 
 ## Enviornment
 
-Developed and test at Window 10/11, Matlab R2022b
+Developed and tested at Window 10(22H2, Build 19045), 11(22H2, Build 22621), Matlab R2022b
 
 ## Contact point
 
-__Young Hun Yoon__ <br/>
-Ph.D. Student<br/>
-Department of Radiation Oncology,<br/>
-Yonsei University College of Medicine, Seoul, South Korea<br/>
+__Young Hun Yoon__  
+Ph.D. Student  
+Department of Radiation Oncology,  
+Yonsei University College of Medicine, Seoul, South Korea  
 Email : hanor2313@gmail.com
 
-__Jihun Kim__, Ph.D<br/>
-Chief Medical Physicist & Assistant Professor<br/>
-Department of Radiation Oncology, Gangnam Severance Hospital<br/>
-Yonsei University College of Medicine, Seoul, South Korea<br/>
+__Jihun Kim__, Ph.D  
+Chief Medical Physicist & Assistant Professor  
+Department of Radiation Oncology, Gangnam Severance Hospital  
+Yonsei University College of Medicine, Seoul, South Korea  
 Email: JIHUNKIM2010@yuhs.ac
