@@ -1,6 +1,6 @@
 # Tomotherapy delivery quality assurance software
 
-This is an official github repository of "Development of automated delivery quality assurance analysis software for helical tomotherapy". (_Under review_)
+This is an official github repository of "Development of automated delivery quality assurance analysis software for helical tomotherapy". (_Accepted_)
 
 Authors :
 __Young Hun Yoon__, Han-Back Shin, Min Cheol Han, Hojin Kim, Dong Wook Kim, Chae-Seon Hong, __Jihun Kim*, Jin Sung Kim*__
